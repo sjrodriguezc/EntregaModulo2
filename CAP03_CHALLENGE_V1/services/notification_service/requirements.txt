@@ -1,0 +1,6 @@
+FastAPI
+httpx
+pydantic
+uvicorn
+email-validator
+python-dotenv
